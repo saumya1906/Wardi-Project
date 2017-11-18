@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 32cb161201a851942849c0e5f5d25bf2
+timeCreated: 1510767381
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audio_c1fl: {fileID: 8300000, guid: 9767588cd2ec70e4290d48277a6d825c, type: 3}
+  - c2fl_audio: {fileID: 8300000, guid: e7587cdcb497c344695018ed0f76d603, type: 3}
+  - c2fr_audio: {fileID: 8300000, guid: 9ca1349c821c65f4387365c39eb2d478, type: 3}
+  - c1fr_audio: {fileID: 8300000, guid: 00c0ed9bb351f6a48a711ba12d361b8e, type: 3}
+  - r1fl_audio: {fileID: 8300000, guid: cace68e527591af43aff6bd68a185e5b, type: 3}
+  - r2fl_audio: {fileID: 8300000, guid: a1dc02830700e144382f64f8db4705e2, type: 3}
+  - r2fr_audio: {fileID: 8300000, guid: 33401b7dfa8f0d34d8e2038a6ec0cfe1, type: 3}
+  - r1fr_audio: {fileID: 8300000, guid: b509285777dd20d4fa09ed46b75e281d, type: 3}
+  - reorder: {fileID: 8300000, guid: 20ea1237148c9794abad83d31f42b555, type: 3}
+  - congo: {fileID: 8300000, guid: 50534f8137dab0841970cac790b2c0fb, type: 3}
+  - obj: {fileID: 100004, guid: b2db7e8ab67878a49945f81aeff4b7a5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

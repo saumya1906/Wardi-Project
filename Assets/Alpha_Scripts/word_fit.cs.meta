@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e7d1893b55cee58479394ac82dba4f34
+timeCreated: 1510759489
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - clip: {fileID: 8300000, guid: e7587cdcb497c344695018ed0f76d603, type: 3}
+  - clip2: {fileID: 8300000, guid: 9767588cd2ec70e4290d48277a6d825c, type: 3}
+  - clip3: {fileID: 8300000, guid: 00c0ed9bb351f6a48a711ba12d361b8e, type: 3}
+  - clip4: {fileID: 8300000, guid: cace68e527591af43aff6bd68a185e5b, type: 3}
+  - clip5: {fileID: 8300000, guid: a1dc02830700e144382f64f8db4705e2, type: 3}
+  - clip6: {fileID: 8300000, guid: b509285777dd20d4fa09ed46b75e281d, type: 3}
+  - reorder: {fileID: 8300000, guid: 20ea1237148c9794abad83d31f42b555, type: 3}
+  - congo: {fileID: 8300000, guid: 50534f8137dab0841970cac790b2c0fb, type: 3}
+  - obj: {fileID: 100004, guid: b2db7e8ab67878a49945f81aeff4b7a5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

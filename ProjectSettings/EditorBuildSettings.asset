@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Demo.unity
+    guid: c141d24673958bb44b780d361745cca7
+  - enabled: 1
+    path: Assets/question.unity
+    guid: b0fef575f12aa894d9c22a50e5e6cd66
+  - enabled: 1
+    path: Assets/AR1.unity
+    guid: 31d90d99e0ef09747ab76ccdb763bfa8
+  - enabled: 1
+    path: Assets/question2.unity
+    guid: 4abf9318654d5ea4f85a78cc132039fd
+  - enabled: 1
+    path: Assets/AR2.unity
+    guid: a2f3d273306c71e4d824d98918ddd9d4
+  - enabled: 1
+    path: Assets/question3.unity
+    guid: 1b47be8be3730e64a879e1e3992920df
+  - enabled: 1
+    path: Assets/AR3.unity
+    guid: a43dc55184f81ac4e9748045d56cd5bd
+  - enabled: 1
+    path: Assets/question4.unity
+    guid: 70dc2d68cc34b84488ebc6ec1f9b963d
+  - enabled: 1
+    path: Assets/AR4.unity
+    guid: ea2f3b04b6f73344ab8dacc4da162d29
+  - enabled: 1
+    path: Assets/question5.unity
+    guid: da55a783e19a69d4692493ed186f2f0c
+  - enabled: 1
+    path: Assets/AR5.unity
+    guid: 6c80e7dd687eaca47990a9b4fabd7c21
+  - enabled: 1
+    path: Assets/question6.unity
+    guid: 9c9ec4a3f1127784f9a2561f082217c5
+  - enabled: 1
+    path: Assets/AR6.unity
+    guid: 87661df1d08344345acce7200863d9b2
+  - enabled: 1
+    path: Assets/question7.unity
+    guid: 295d75a529017de4ea48a9778fee981f
+  - enabled: 1
+    path: Assets/AR7.unity
+    guid: 7c6c5c29cf5f5c84e9ea247bca57551e
+  - enabled: 1
+    path: Assets/question8.unity
+    guid: d5a837227e663914cb855e5034b74e21
+  - enabled: 1
+    path: Assets/AR8.unity
+    guid: f0c84a24dff4a324fb80f7dbebdd2d28
+  - enabled: 1
+    path: Assets/question9.unity
+    guid: e9921d0886d6825458a862f67edf0d1f
+  - enabled: 1
+    path: Assets/AR9.unity
+    guid: e19a41b968f279d41be601ad039bb9e3
+  - enabled: 1
+    path: Assets/question10.unity
+    guid: 6e7b1861e8f52234d91819e8749daddf
+  - enabled: 1
+    path: Assets/AR10.unity
+    guid: 7cac833f4833b7c478a0a6b15bb617b7
